@@ -50,7 +50,7 @@ Wait couple of seconds, while you see
 ```
 in console.
 
-Novigate to `http://localhost:3000/` in your browser.
+Navigate to `http://localhost:3000/` in your browser.
 
 You should have the latest issue on index page, and archive (last 100 issues) on `http://localhost:3000/archive` page. 
 
