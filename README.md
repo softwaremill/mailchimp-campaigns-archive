@@ -1,6 +1,14 @@
 Newsletters Archive via Mailchimp API
 ===================
 
+If you are running a weekly newsletter, this code will allow you to fetch all newsletters for specific list and host it on your own website.
+
+There are 3 pages:
+
+1. `/index` - your latest newsletter
+2. `/archive` - links to all your newsletters
+3. `/archive/:id` - newsletter for specific id (this page opens from clicking on link on archive page)
+
 You can see example on [Scala Times](http://www.scalatimes.com/) - Weekly Scala Newspaper.
 
 
